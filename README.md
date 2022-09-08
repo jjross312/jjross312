@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjross312
 - 👀 I’m interested in programming / developing APIs, user tools (primarily in C#) as well as database development.
 - 🌱 I’m currently learning .NET 6
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to share and receive knowledge across development domains.  Always learning!
 - 📫 How to reach me ...  jjross312@gmail.com
 
 <!---
